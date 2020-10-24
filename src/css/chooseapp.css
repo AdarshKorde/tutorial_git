@@ -1,0 +1,4 @@
+.app-window{
+   display: grid;
+   justify-content: space-around;
+}
